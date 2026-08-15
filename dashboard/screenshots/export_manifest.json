@@ -1,0 +1,17 @@
+{
+  "source_workbook": "Tableau_Mini_Project_Arindam Das_Biswas.twb",
+  "dashboard": "Real Estate DashBoard",
+  "worksheets": [
+    "KPI - Average Sale",
+    "KPI - Total Sales",
+    "KPI - Transactions",
+    "Property Type Distribution",
+    "Residential Type Treemap",
+    "Sales Map",
+    "Sales Ratio Heatmap",
+    "Sales Trend",
+    "Sales by Town"
+  ],
+  "png_count": 10,
+  "note": "PNG exports are workbook-aligned renderings generated from the supplied TWB definitions and source data; Tableau Desktop/Server itself was not available in this runtime for native TWB rendering."
+}
